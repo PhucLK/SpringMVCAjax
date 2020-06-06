@@ -1,0 +1,110 @@
+
+/* content */
+
+.dropdown {
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+
+.col-lg-2 {
+	border: 1px solid black;
+	height: 100vh;;
+}
+
+.col-lg-10 {
+	border: 1px solid black;
+	height: 100vh;
+}
+
+.input-group {
+	border-bottom: 1px solid black;
+}
+
+.btn-primary-outline {
+	background-color: transparent;
+	border-color: black;
+}
+.p{
+ display : none;
+ color : red;
+}
+
+/* edit profile */
+.dropdown {
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+
+.col-lg-2 {
+	border: 1px solid black;
+	height: 100vh;;
+}
+
+.col-lg-10 {
+	border: 1px solid black;
+	height: 100vh;
+}
+
+.input-group {
+	border-bottom: 1px solid black;
+}
+
+.btn-primary-outline {
+	background-color: transparent;
+	border-color: black;
+}
+
+/* register profile */
+.container {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	width: 40rem !important;
+	border: 1px solid back !important;
+}
+
+#Uerror,#Eerror,#Perror,#RPerror {
+	color: red;
+}
+
+/* welcome profile */
+
+.dropdown {z
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+
+.col-lg-2 {
+	border: 1px solid black;
+	height: 100vh;;
+}
+
+.col-lg-10 {
+	border: 1px solid black;
+	height: 100vh;
+}
+
+.input-group {
+	border-bottom: 1px solid black;
+}
+.btn-primary-outline {
+  background-color: transparent;
+  /*border-color: black; */
+}
+
+#left{
+	padding: 0;
+	border: none !important;
+	background: black;
+}
+
+
+/*error */
+   .error {
+      color: red;
+      background-color: #f2f8ff;
+   }
